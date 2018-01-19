@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CarsApp</string>
+
+    //Exception messages
+    <string name="exception_message_generic">There was an application error</string>
+    <string name="exception_message_no_connection">There is no internet connection</string>
+    <string name="exception_message_product_not_found">Cannot retrieve product data. Check your internet connection</string>
+
+    <string name="btn_text_retry">Retry</string>
+
+    <string name="view_text_name">Name:</string>
+    <string name="view_text_price">Price:</string>
+    <string name="all_cars">All Cars</string>
+    <string name="car">Car</string>
+    <string name="tools">Tools</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="wiki">WIKI</string>
+    <string name="description">Description</string>
+
+</resources>
